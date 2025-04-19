@@ -58,7 +58,7 @@
                   height="200px"
                   width="200px"
                 />
-                <h3>Product</h3>
+                <h3>Product 69</h3>
                 <p>$89.99</p>
                 <button>Add to Cart</button>
               </div>
